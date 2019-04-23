@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** pj-penal-archivos-recibidos-AAAA.zip
 
--   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas penales en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf)), (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío.
+-   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas penales en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](, (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío.
 
 -   **Formato:** ZIP
 
@@ -39,7 +39,7 @@ Recursos disponibles
 
 -   **Nombre:** indice-archivos-recibidos-poder-judicial-penal-AAAA.csv
 
--   **Descripción del contenido:** Este recurso es un índice de los archivos recibidos de los poderes judiciales referidas a causas penales en el año AAAA en el marco del [Convenio Interjurisdiccional de Datos Abiertos de Justicia]((https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf)
+-   **Descripción del contenido:** Este recurso es un índice de los archivos recibidos de los poderes judiciales referidas a causas penales en el año AAAA en el marco del [Convenio Interjurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf)
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
