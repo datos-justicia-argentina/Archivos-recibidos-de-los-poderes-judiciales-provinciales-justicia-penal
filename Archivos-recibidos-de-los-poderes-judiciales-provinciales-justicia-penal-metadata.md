@@ -43,7 +43,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** archivos recibidos de los poderes judiciales provinciales en el año AAAA
+-   **Rango temporal:** indice de archivos recibidos de los poderes judiciales provinciales referidos a causas penales en el año AAAA
 
 ### Notas
 
