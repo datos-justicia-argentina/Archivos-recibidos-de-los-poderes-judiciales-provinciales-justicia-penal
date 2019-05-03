@@ -39,7 +39,7 @@ Recursos disponibles
 
 ### Tabla5 - CAUSAS PENALES
 
-- **Nombre del recurso:** nombre_provincia-pj-AAAAMMDD-tabla5-causas-penales-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 (NUMERO VARIABLE Y CORRELATIVO) corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-pj-AAAAMMDD-tabla5-causas-penales-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 (NUMERO VARIABLE Y CORRELATIVO) corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 -   **id_causa_mp (string):** código que identifica la causa en los sistemas de gestión de los ministerios públicos provinciales
 
@@ -59,7 +59,7 @@ Recursos disponibles
 
 ### Tabla5-1 - CAUSAS PENALES - DELITOS
 
-- **Nombre del recurso:** nombre_provincia-pj-AAAAMMDD-tabla5-1-causas-penales-delitos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-pj-AAAAMMDD-tabla5-1-causas-penales-delitos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 -   **id_causa_mp (string):** código que identifica la causa en los sistemas de gestión de los ministerios públicos provinciales
 
@@ -73,7 +73,7 @@ Recursos disponibles
 
 ### Tabla6 - CAUSAS PENALES - MOVIMIENTOS
 
-- **Nombre del recurso:** nombre_provincia-pj-AAAAMMDD-tabla6-causas-penales-movimientos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-pj-AAAAMMDD-tabla6-causas-penales-movimientos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 -   **id_causa_mp (string):** código que identifica la causa en los sistemas de gestión de los ministerios públicos provinciales
 
@@ -95,7 +95,7 @@ Recursos disponibles
 
 ### Tabla6-1 - CAUSAS PENALES - PERSONAS
 
-- **Nombre del recurso:** nombre_provincia-pj-AAAAMMDD-tabla6-1-causas-penales-personas-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-pj-AAAAMMDD-tabla6-1-causas-penales-personas-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 -   **id_causa (string):** código que identifica la causa en los sitemas de gestión de los poderes judiciales. Cada provincia usa su propio formato de identificación de la causa
 
@@ -111,7 +111,7 @@ Recursos disponibles
 
 ### Tabla6-2 - CAUSAS PENALES - RECURSOS
 
-- **Nombre del recurso:** nombre_provincia-pj-AAAAMMDD-tabla6-2-causas-penales-recursos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-pj-AAAAMMDD-tabla6-2-causas-penales-recursos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 -   **uosj_alzada (string):** tribunal que recibe un recurso para decidir algún aspecto de la causa
 	
