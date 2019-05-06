@@ -161,7 +161,7 @@ Recursos disponibles
 
 [Código Penal de la Nación Ley - 11.179](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm)
 
-[Código Procesal Penal de la Ciudad Autónoma de Buenos Aires - Ley 23.984](http://www.saij.gob.ar/docs-f/codigo/Codigo_Procesal_Penal_de_la_Nacion.pdf)
+[Código Procesal Penal de La Nación Ley - 23.984](http://www.saij.gob.ar/23984-nacional-codigo-procesal-penal-lns0003709-1991-08-21/123456789-0abc-defg-g90-73000scanyel)
 
 [Código Procesal Penal de la provincia de Buenos Aires Ley - 11.922](http://www.saij.gob.ar/11922-local-buenos-aires-codigo-procesal-penal-provincia-buenos-aires-lpb0011922-1996-12-18/123456789-0abc-defg-229-1100bvorpyel)
 
