@@ -1,7 +1,7 @@
 Archivos recibidos de los poderes judiciales provinciales - Justicia penal
 ==========================================================================
 
-Este conjunto de datos contiene los archivos recibidos de los poderes judiciales referidos a causas penales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión III](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-III/blob/main/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Inertjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20III.pdf)., (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío.
+Este conjunto de datos contiene los archivos recibidos de los poderes judiciales referidos a causas penales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío.
 
 http://datos.jus.gob.ar/dataset/datos-recibidos-de-los-poderes-judiciales-de-las-provincias-justicia-penal
 
@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** pj-penal-archivos-recibidos-AAAA.zip
 
--   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas penales en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión III](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-III/blob/main/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Inertjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20III.pdf), (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío.
+-   **Descripción del contenido:** Contiene los archivos recibidos de los poderes judiciales referidos a causas penales en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío.
 
 -   **Formato:** ZIP
 
@@ -171,7 +171,7 @@ Recursos disponibles
 	
 	-   tabla6.2
 
--   **publicacion_nombre_csv (string):** nombre del archivo publicado en formato csv. Este corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión III", (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío
+-   **publicacion_nombre_csv (string):** nombre del archivo publicado en formato csv. Este corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia, (tabla5, tabla5.1, tabla6, tabla6.1 y tabla6.2) y número de orden de la tabla dentro del envío
 
 -   **publicacion_nombre_zip (string):** nombre del archivo publicado en formato zip. Este mantiene la siguiente estructura:pj-penal-datos-recibidos-AAAA
 
