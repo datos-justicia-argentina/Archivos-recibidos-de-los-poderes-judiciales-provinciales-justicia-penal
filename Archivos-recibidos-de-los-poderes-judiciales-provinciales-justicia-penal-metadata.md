@@ -14,9 +14,9 @@ Características
 
 -   **Organización:** Ministerio de Justicia
 
--   **Autor:** Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia
+-   **Autor:** Ministerio de Justicia
 
--   **Responsable:** Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia
+-   **Responsable:** Ministerio de Justicia
 
 -   **Grupo:** Instituciones de Justicia
 
