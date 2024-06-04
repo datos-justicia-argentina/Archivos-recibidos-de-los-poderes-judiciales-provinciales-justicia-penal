@@ -12,7 +12,7 @@ Características
 
 -   **Tags o Etiquetas:** actos procesales, casos, causas, código penal, delitos, instituciones, investigación penal preparatoria, poderes judiciales
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
+-   **Organización:** Ministerio de Justicia
 
 -   **Autor:** Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia
 
